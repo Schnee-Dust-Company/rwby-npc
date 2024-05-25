@@ -1,0 +1,7 @@
+name: rwby-npc
+version: '${version}'
+main: com.janishutz.rwbynpc.Rwby_npc
+api-version: '1.20'
+authors: [Janis Hutz]
+website: https://janishutz.com
+depend: [Citizens]
